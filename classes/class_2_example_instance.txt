@@ -1,0 +1,16 @@
+class Teacher
+
+ATTRIBUTES
+name: "Jane Brown"
+yearsOfExperience: 4
+hasPhD: false
+subjectMattter: "Math"
+classesTaught: ["Algebra", "Geometry", "Financial Algebra"]
+
+METHODS
+changeName (updates name to "Jane Brown")
+addYearOfExperience (adds +1 to yearsOfExperience, which is now 5)
+earnPhD (changes hasPhD to true)
+switchSubjects (changes value of subjectMattter to "Math and Science")
+addClass (adds "Computer Science" to end of classesTaught array)
+giveGrade (passes the value "A" to John's "Math" grade)

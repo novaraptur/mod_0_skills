@@ -1,0 +1,16 @@
+class Teacher
+
+ATTRIBUTES
+name (string)
+yearsOfExperience (int)
+hasPhD (bool)
+subjectMattter (string)
+classesTaught (array)
+
+METHODS
+changeName (updates name)
+addYearOfExperience (adds +1 to yearsOfExperience)
+earnPhD (changes hasPhD to true)
+switchSubjects (changes value of subjectMattter)
+addClass (adds another class to end of classesTaught array)
+giveGrade (passes a grade value to a student)
