@@ -1,0 +1,15 @@
+class Student
+
+Attributes:
+name (string)
+gradeLevel (int)
+inHonors (bool)
+classes (array)
+grades (array)
+
+Methods:
+changeName (updates name variable)
+nextGradeLevel (adds +1 to gradeLevel)
+joinHonors (changes inHonors to true)
+joinClass (adds class name to end of classes array)
+changeGrade (changes value of grades[i])
