@@ -1,4 +1,4 @@
-class Teacher
+instance msBrown
 
 ATTRIBUTES
 name: "Jane Brown"
