@@ -1,0 +1,15 @@
+instance John
+
+Attributes:
+name: "John Smith"
+gradeLevel: 10
+inHonors: false
+classes: ["English", "Math", "Biology", "US History", "Woodshop"]
+grades: ["B", "A", "A", "B", "B"]
+
+Methods:
+changeName (updates name variable to "John Smith")
+nextGradeLevel (adds +1 to gradeLevel, which is now 11)
+joinHonors (changes inHonors to true)
+joinClass (adds "Gym" to end of classes array)
+changeGrade (changes value of grades[0] to be "A")
