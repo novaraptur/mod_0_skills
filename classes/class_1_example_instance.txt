@@ -8,7 +8,7 @@ classes: ["English", "Math", "Biology", "US History", "Woodshop"]
 grades: ["B", "A", "A", "B", "B"]
 
 Methods:
-changeName (updates name variable to "John Smith")
+changeName (updates name variable to "Charlotte Smith")
 nextGradeLevel (adds +1 to gradeLevel, which is now 11)
 joinHonors (changes inHonors to true)
 joinClass (adds "Gym" to end of classes array)

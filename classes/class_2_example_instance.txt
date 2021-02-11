@@ -8,7 +8,7 @@ subjectMattter: "Math"
 classesTaught: ["Algebra", "Geometry", "Financial Algebra"]
 
 METHODS
-changeName (updates name to "Jane Brown")
+changeName (updates name to "Jane Greene")
 addYearOfExperience (adds +1 to yearsOfExperience, which is now 5)
 earnPhD (changes hasPhD to true)
 switchSubjects (changes value of subjectMattter to "Math and Science")
